@@ -1,0 +1,2 @@
+This is a test message that you can put in a text file for uploading to the blockchain.
+Feel free to customize this message or add any content you'd like to test with.
